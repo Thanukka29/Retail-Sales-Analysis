@@ -1,6 +1,3 @@
-# Retail-Sales-Analysis
-Retail Sales Analysis using Power BI
-
 # Retail Sales Analysis Dashboard
 
 ## Project Overview
